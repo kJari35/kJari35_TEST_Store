@@ -1,0 +1,2 @@
+# kJari35_TEST_Store
+kJari35_TEST_stores
